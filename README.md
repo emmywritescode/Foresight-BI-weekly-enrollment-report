@@ -25,12 +25,12 @@ The model uses a star schema with multiple inactive relationships between date c
 ## Analysis and Visualization
 The report comprise of a single page. Analysis revealed the following:
 - Ten new users signed up on the platform this week, representing a 25% increase in sign ups from the previous week.
-- Although, nine students enrolled for courses, it was a -10%  decrease from the previous week when ten users enrolled.
+- Although, nine students enrolled for courses, it was a 10%  decrease from the previous week when ten users enrolled.
 - There was an increase of 13% in the number of active students on the platform this week.
 - Only two students completed courses this week whereas three students completed course the previous week.
 
-![]()
-The full report which shows a breakdown of students activities on the platform by course types and course names can be accessed on the Power BI service via this [link](https://app.powerbi.com/view?r=eyJrIjoiOWY0MzQwZWQtYzRjMy00MGNjLWI0ZTMtZWNmNmQ4YTNkNzJjIiwidCI6ImQ4NzlkOWE0LTZmODEtNDU4NS1iYWJjLWM4OGZjMzBmZTc3YiJ9).
+![](report.jpg)
+The interactive report which shows a breakdown of students activities on the platform by course types and course names can be accessed on the Power BI service via this [link](https://app.powerbi.com/view?r=eyJrIjoiOWY0MzQwZWQtYzRjMy00MGNjLWI0ZTMtZWNmNmQ4YTNkNzJjIiwidCI6ImQ4NzlkOWE0LTZmODEtNDU4NS1iYWJjLWM4OGZjMzBmZTc3YiJ9).
 ## Recommendations
 Although the learning platform experienced a drop in enrolled students from the previous week, there was a 25% increase in new users and a 13% increase in active students. These positive trends indicate that the platform is gaining popularity, but action needs to be taken to improve student engagement and retention. To address this, management needs to focus on improving the overall user experience on the platform. Additionally, further investigation should be conducted into the underlying factors contributing to the increased enrollment in the Power BI Bootcamp 10 course. Such insights can be leveraged to identify and replicate successful strategies across other Bootcamp courses, leading to increased student engagement and course completion rates. Furthermore, management should invest in targeted marketing efforts to attract more enrolled students. This could include partnering with universities or other educational institutions, leveraging social media platforms to reach the target audience, and offering promotions or discounts to incentivize students to enroll in courses.
 
