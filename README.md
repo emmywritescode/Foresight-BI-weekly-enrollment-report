@@ -12,4 +12,7 @@ Management wants to understand the weekly performance of the e-learning platform
 The following Power BI skills were incorporated into this project:
 - Data transformation using Power Query Editor.
 - Data modelling on Power BI.
-- DAX measures. 
+- Knowledge of DAX functions. ADDCOLUMNS, CALENDARAUTO, YEAR, MONTH, FORMAT, WEEKNUM, DATE, CALCULATE, DIVIDE, COUNT, VAR, RETURN,  IF, and USERELATIONSHIP functions were used in this project.
+- Data visualization on Power BI.
+## Data sourcing
+The dataset is a real-life (anonymized) dataset provided by Ahmed Oyelowo (MVP, MCSA, MCT, AFM) of Foresight BI & Analytics. Here's the link to the [dataset](https://docs.google.com/spreadsheets/d/1M3INoxFT5tzmjaDOS68TG4xfx7x4LERd/edit?usp=sharing&ouid=109205170271109304266&rtpof=true&sd=true).
