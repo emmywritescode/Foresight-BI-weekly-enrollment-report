@@ -21,4 +21,9 @@ For the analysis, only the Courses, Enrollments, and Users sheet were transforme
 ## Data modelling
 The model uses a star schema with multiple inactive relationships between date columns in the dataset. There are two (2) fact tables and one (1) dimension table. The Courses table (dimension) is joined to the Enrollments table (fact) via a one-to-many relationship. The Users table (fact) is also joined to the Enrollments table via a one-to-many relationship. A separate calendar table (dimension) was created to aid the analysis and since there can be only one active primary key relationship between two tables at a time, it was important to also create inactive relationships to answer the business questions.
 ![](model.png)
-## Analysis and Visualizations
+## Analysis and Visualization
+The report comprise of a single page. Analysis revealed the following:
+- Ten new users signed up on the platform this week, representing a 25% increase in sign ups from the previous week.
+- Although, nine students enrolled for courses, it was a -10%  decrease from the previous week when ten users enrolled.
+- There was an increase of 13% in the number of active students on the platform this week.
+- Only two students completed courses this week whereas three students completed course the previous week.
