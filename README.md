@@ -19,7 +19,7 @@ The dataset is a (anonymized) real-life dataset provided by Ahmed Oyelowo (MVP, 
 ## Data transformation
 For the analysis, only the Courses, Enrollments, and Users sheet were transformed with Power Query Editor, the datetime columns in the sheets were transformed to date only columns for a clearer and precise analysis. There were no duplicates in the dataset.
 ## Data modelling
-The model uses a star schema with multiple inactive relationships between date columns in the dataset. There are two (2) fact tables and one (1) dimension table. The Courses table (dimension) is joined to the Enrollments table (fact) via a one-to-many relationship. The Users table (fact) is also joined to the Enrollments table via a one-to-many relationship. A separate calendar table (dimension) was created to aid the analysis and since there can be only one active primary key relationship between two tables at a time, it was important to also create inactive relationships to answer the business questions.
+The model uses a star schema with multiple inactive relationships between date columns in the dataset. There are two (2) fact tables and one (1) dimension table. The Courses table (dimension) is joined to the Enrollments table (fact) via a one-to-many relationship. The Users table (fact) is also joined to the Enrollments table via a one-to-many relationship. A separate calendar table (dimension) was created to aid the analysis and since there can be only one active primary key relationship between two tables at a time, it was important to also create inactive relationships to answer the business questions. These inactive relationships were called out with the USERELATIONSHIP function.
 
 ![](model.png)
 ## Analysis and Visualization
