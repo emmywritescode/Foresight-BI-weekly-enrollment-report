@@ -15,7 +15,7 @@ The following Power BI skills were incorporated into this project:
 - Knowledge of DAX functions. ADDCOLUMNS, CALENDARAUTO, YEAR, MONTH, FORMAT, WEEKNUM, DATE, CALCULATE, DIVIDE, COUNT, VAR, RETURN,  IF, and USERELATIONSHIP functions were used in this project.
 - Data visualization on Power BI.
 ## Data sourcing
-The dataset is a (anonymized) real-life dataset provided by Ahmed Oyelowo (MVP, MCSA, MCT, AFM) of Foresight BI & Analytics. Here's the link to the [dataset](https://docs.google.com/spreadsheets/d/1M3INoxFT5tzmjaDOS68TG4xfx7x4LERd/edit?usp=sharing&ouid=109205170271109304266&rtpof=true&sd=true).
+The dataset is an (anonymized) real-life dataset provided by Ahmed Oyelowo (MVP, MCSA, MCT, AFM) of Foresight BI & Analytics. Here's the link to the [dataset](https://docs.google.com/spreadsheets/d/1M3INoxFT5tzmjaDOS68TG4xfx7x4LERd/edit?usp=sharing&ouid=109205170271109304266&rtpof=true&sd=true).
 ## Data transformation
 For the analysis, only the Courses, Enrollments, and Users sheet were transformed with Power Query Editor, the datetime columns in the sheets were transformed to date only columns for a clearer and precise analysis. There were no duplicates in the dataset.
 ## Data modelling
