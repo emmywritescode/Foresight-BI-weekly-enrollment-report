@@ -1,7 +1,7 @@
 # Foresight BI E-learning Weekly Enrollment Report
 ![](intro.jpg)
 ## Introduction
-This is a Power BI project on the e-learning dataset provided by Foresight BI & Analytics which is a consulting and training firm that specializes in developing Microsoft Power BI reporting solutions and training for individuals and organizations. The goal of the project is to help management make informed decisions on improving student engagement on the platform and the course curriculums.
+This is a Power BI project on the e-learning dataset provided by Foresight BI & Analytics, which is a consulting and training firm that specializes in developing Microsoft Power BI reporting solutions and training for individuals and organizations. The goal of the project is to help management make informed decisions on improving student engagement on the platform and the course curriculums.
 ## Problem Statement
 Management wants to understand the weekly performance of the e-learning platform. Among what management wants to determine are:
 - Number of new users on the platform compared to the previous week.
